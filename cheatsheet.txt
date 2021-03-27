@@ -1,0 +1,55 @@
+pwd
+=> prints the working directory (aka where am i?)
+
+ls / ll
+=> shows the contents of the directory
+
+cd folder_name
+=> moves into a directory
+
+cd ..
+=> moves back a directory
+
+mkdir folder_name
+=> creates the directory
+
+touch file_name
+=> creates a file
+
+rm file_name
+=> removes file
+
+rm -r folder_name
+=> removes file
+
+rm -rf folder_name
+=> FORCE removes file
+
+mv filename folder
+=> moves file into folder
+
+mv filename ..
+=> moves file back a folder
+
+mv filename new_filename
+=> renames the file
+
+stt / code .
+=> opens the text editor
+
+cat filename
+=> prints the contents of a file
+
+mac /windows
+open . / start filename
+=> open folder in Finder
+
+
+
+
+
+
+
+
+
+
